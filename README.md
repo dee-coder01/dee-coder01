@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@dee_coder01](https://medium.com/@dee_coder01)
 
-- 💬 Ask me about **React, Angular,Core Java,System Design.**
+- 💬 Ask me about **React, Angular, Core Java, System Design.**
 
 - 📫 How to reach me **official.deepak.v09@gmail.com**
 
